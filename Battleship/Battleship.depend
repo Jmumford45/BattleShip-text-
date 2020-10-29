@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526346356 source:c:\users\jmumf\onedrive\documents\battleship\battleship\main.c
+	"header.h"
+
+1526346349 c:\users\jmumf\onedrive\documents\battleship\battleship\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
